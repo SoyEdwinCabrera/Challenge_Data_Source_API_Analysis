@@ -7,7 +7,7 @@ This repository contains my technical test for the Data Source API Analyst role.
 ## 🔍 Objective
 
 - Research GitHub API endpoints to meet the client’s needs: public repositories, commits, and file contents.
-- Use Google Colab (and optionally Postman) to extract and analyze data.
+- Use Jupyter Notebook and curl command to extract and analyze data.
 - Demonstrate the ability to troubleshoot issues like rate limits or authentication errors.
 - Document the process clearly and cleanly for review.
 
@@ -46,7 +46,6 @@ data-source-api-analyst-test/
 
 - Sample functions to retrieve repository lists, commit history, and file contents.
 - Handling of API tokens via environment variables to avoid hardcoding credentials.
-- Pagination logic with looping over pages using `Link` headers.
 - Error handling for common HTTP response codes (401, 403, 404, 422).
 - Clean documentation of each step in `/Content`.
 
