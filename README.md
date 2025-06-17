@@ -29,7 +29,7 @@ data-source-api-analyst-test/
 │ └── pagination_handling.md # Pagination logic explanation
 │
 └── Data_Collection/
-  └── extract_github_data.ipynb # Google Colab notebook with implementation
+  └── extract_github_data.ipynb # Jupyter notebook with implementation
 ```
 ---
 
