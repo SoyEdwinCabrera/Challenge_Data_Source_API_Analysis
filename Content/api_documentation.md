@@ -10,7 +10,7 @@ First of all, we need to search for appropriate endpoints to get the data we nee
 curl -s https://api.github.com/ | jq
 ```
 
-![endpoints](../assets/endpoints.png)
+![endpoints](../Assets/Endpoints.png)
 
 
 ## 🔍 Endpoints Used
