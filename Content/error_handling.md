@@ -8,7 +8,7 @@ This document outlines the most common errors encountered while interacting with
 
 **Description**: This occurs when the authentication token is missing, invalid, or lacks proper scope.
 
-![401_Error](../assets/401_error.png)
+![401_Error](../Assets/401_Error.png)
 
 **Common Causes**:
 - Missing `Authorization` header.
@@ -45,7 +45,7 @@ This document outlines the most common errors encountered while interacting with
 
 ## 3. Not Found Errors (404)
 
-![404_Error](../assets/404_error.png)
+![404_Error](../Assets/404_Error.png)
 
 **Description**: The requested resource does not exist or is not accessible to the user/token.
 
