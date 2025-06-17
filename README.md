@@ -11,6 +11,8 @@ This repository contains my technical test for the Data Source API Analyst role.
 - Demonstrate the ability to troubleshoot issues like rate limits or authentication errors.
 - Document the process clearly and cleanly for review.
 
+![Jupyter_notebook](Assets/Jupyter_notebook.png)
+
 ---
 
 ## 🧱 Repository Structure
@@ -34,8 +36,8 @@ data-source-api-analyst-test/
 ## 🚀 Approach & Tools
 
 - **API**: GitHub REST API v3
-- **Notebook**: Google Colab to demonstrate API requests, authentication, and pagination.
-- **Languages**: Python 3
+- **Jupyter Notebook**: API requests, authentication, and pagination.
+- **Languages**: `Python 3`
 - **Tools**: `requests`, curl, Markdown
 
 ---
