@@ -15,6 +15,7 @@ This repository contains my technical test for the Data Source API Analyst role.
 
 ## 🧱 Repository Structure
 
+```
 data-source-api-analyst-test/
 │
 ├── README.md # Project overview and reflections
@@ -27,7 +28,7 @@ data-source-api-analyst-test/
 │
 └── Data_Collection/
 └── extract_github_data.ipynb # Google Colab notebook with implementation
-
+```
 ---
 
 ## 🚀 Approach & Tools
